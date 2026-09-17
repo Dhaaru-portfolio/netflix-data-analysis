@@ -1,4 +1,4 @@
-# 📺 Netflix Data Analysis
+# 📺 Netflix Data Analysis-Python EDA
 
 ## 📊 Project Overview
 Analyzed Netflix dataset containing 8807 movies & TV shows to find insights about content trends.
@@ -6,7 +6,7 @@ Analyzed Netflix dataset containing 8807 movies & TV shows to find insights abou
 ## 🔍 Key Insights Found
 - **Movies vs TV Shows:** 70% Movies, 30% TV Shows
 - **Top Country:** United States produces 2800+ titles
-- **Peak Year:** 2019 la athigam content add pannirukanga
+- **Peak Year:** 2019 saw highest content additions 
 - **Top Genre:** International Movies & Dramas
 
 ## 🛠️ Tools Used
