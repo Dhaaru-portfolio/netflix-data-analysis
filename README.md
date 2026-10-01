@@ -1,3 +1,6 @@
+<img width="1844" height="854" alt="Screenshot 2026-09-15 155721" src="https://github.com/user-attachments/assets/17b4b95f-18d3-4082-92b8-829474a725d4" />
+<img width="1909" height="858" alt="Screenshot 2026-09-15 155743" src="https://github.com/user-attachments/assets/eadf42a7-0a7f-4b9f-91bc-b233c8f1d809" />
+<img width="1891" height="811" alt="Screenshot 2026-09-15 164905" src="https://github.com/user-attachments/assets/1fd21344-3d9f-4d24-8756-dd784e8eff40" />
 # 📺 Netflix Data Analysis-Python EDA
 
 ## 📊 Project Overview
